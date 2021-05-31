@@ -1,0 +1,21 @@
+{
+  "name": "push-git-changes",
+  "version": "1.0.0",
+  "description": "Commits and pushes changes back to git",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/surya-soft/push-git-changes"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/surya-soft/push-git-changes"
+  },
+  "homepage": "https://github.com/surya-soft/push-git-changes",
+  "dependencies": {
+    "@actions/core": "^1.3.0",
+    "@actions/github": "^5.0.0"
+  }
+}
